@@ -1,0 +1,18 @@
+.marker.cinema{
+	 background-image: url(/images/markers/cinema.png);
+	 background-position: -6px -2px;
+	 width: 38px;
+	 height: 48px;
+}
+.marker.restaurant{
+	 background-image: url(/images/markers/place_to_eat.png);
+	 background-position: -6px -2px;
+	 width: 38px;
+	 height: 48px;
+}
+.marker.barber{
+	 background-image: url(/images/markers/barber.png);
+	 background-position: -6px -2px;
+	 width: 38px;
+	 height: 48px;
+}

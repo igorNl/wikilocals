@@ -1,0 +1,16 @@
+{
+    "private": true,
+    "devDependencies": {
+        "gulp": "^3.9.0",
+        "coffee-script": "*"
+    },
+    "dependencies": {
+        "laravel-elixir": "^3.0.0",
+        "laravel-elixir-sass-compass": "*",
+        "bootstrap-sass": "*",
+        "jquery": "*",
+        "underscore": "*",
+        "backbone": "*",
+        "mobile-detect": "*"
+    }
+}
